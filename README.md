@@ -6,7 +6,7 @@ Computational Geometry
 * OpenGL
 * Qt 5.5
 
-#### Algorithm Done
+#### Algorithms
 
 * Segment Sets Intersection(Bently Ottman)
 * Delaunay Triangulation(Bowyer-Watson) 
