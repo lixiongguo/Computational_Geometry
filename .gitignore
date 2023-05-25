@@ -1,0 +1,10 @@
+WIN/x64
+WIN/.vs
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+**/__pycache__
