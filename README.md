@@ -1,4 +1,4 @@
-Computational Geography
+Computational Geometry
 《计算几何-算法与应用》Mark de Berg 邓俊辉
 
 #### Dependencies
